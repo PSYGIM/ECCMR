@@ -23,5 +23,5 @@ The pre-trained transformer model can be downloaded from this link:[transformer.
 If you find this work useful, please consider citing it.
 
 <pre><code>
-  title={Enhancing Cross-Modal Cooperation in Retrieval via Multi-Level Re-sampling},
+  title={Balancing Cross-Modal Cooperation in Retrieval via Multi-Level Re-sampling},
 </code></pre>
