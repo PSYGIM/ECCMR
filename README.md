@@ -1,8 +1,8 @@
-# Enhancing Cross-Modal Cooperation in Retrieval via Multi-Level Re-sampling
+# Balancing Cross-Modal Cooperation in Retrieval via Multi-Level Re-sampling
 
-This is the source code for "Enhancing Cross-Modal Cooperation in Retrieval via Multi-Level Re-sampling," which has been submitted to the IEEE Transactions on Circuits and Systems for Video Technology. During the paper review process, we have provided training and validation code based on the Flickr30K dataset. If you are interested in the other datasets used in the paper, we will gradually make them available after the paper is accepted.
+This is the source code for "Balancing Cross-Modal Cooperation in Retrieval via Multi-Level Re-sampling," which has been submitted to the IEEE Transactions on Circuits and Systems for Video Technology. During the paper review process, we have provided training and validation code based on the Flickr30K dataset. If you are interested in the other datasets used in the paper, we will gradually make them available after the paper is accepted.
 
-**Paper Title: "Enhancing Cross-Modal Cooperation in Retrieval via Multi-Level Re-sampling"**
+**Paper Title: "Balancing Cross-Modal Cooperation in Retrieval via Multi-Level Re-sampling"**
 
 **Authors: Shouyong Peng**
 
